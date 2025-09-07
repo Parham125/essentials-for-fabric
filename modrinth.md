@@ -108,10 +108,10 @@ Automatic Save System
 
 ## Beta Notice
 
-This is a **beta release** - please report any issues on [GitHub](https://github.com/essentialsforfabric/essentials-for-fabric/issues). 
+This is a **beta release** - please report any issues on [GitHub](https://github.com/Parham125/essentials-for-fabric/issues). 
 
 ## Support & Community
 
-- **Bug Reports and Feature Requests**: [GitHub Issues](https://github.com/essentialsforfabric/essentials-for-fabric/issues)
+- **Bug Reports and Feature Requests**: [GitHub Issues](https://github.com/Parham125/essentials-for-fabric/issues)
 - **Documentation**: Full README on GitHub
 - **Source Code**: Available under MIT License
