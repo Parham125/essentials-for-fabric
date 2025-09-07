@@ -70,7 +70,7 @@ Automatic Save System
    - [Fabric API](https://modrinth.com/mod/fabric-api) 0.83.0+
 
 2. **Install the Mod**:
-   - Place `essentials-for-fabric-0.1.0-beta.jar` in your `mods/` folder
+   - Place the mod in your `mods/` folder
    - Include Fabric API in the same folder
    - Start your server
 
