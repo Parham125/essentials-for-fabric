@@ -82,24 +82,16 @@ chmod +x gradlew
 - `/setwarp <name>` - Create a warp (Permission: `essentials.setwarp`)
 - `/delwarp <name>` - Delete a warp (Permission: `essentials.delwarp`)
 
-### Item & World Commands
-- `/give <item> [count] [player]` - Give items (Permission: `essentials.give`)
+### Item Commands
 - `/repair [player]` - Repair held item (Permission: `essentials.repair`)
-- `/time set <day|night|noon|midnight|number>` - Set time (Permission: `essentials.time`)
-- `/time add <number>` - Add time (Permission: `essentials.time`)
-- `/weather <clear|rain|thunder>` - Control weather (Permission: `essentials.weather`)
 
-### Moderation Commands
-- `/kick <player> [reason]` - Kick a player (Permission: `essentials.kick`)
-- `/ban <player> [reason]` - Ban a player (Permission: `essentials.ban`)
 
 ## Permission System
 
 The mod uses an EssentialsX-style permission system with default operator levels:
 
 - **Level 0** (All Players): `/home`, `/sethome`, `/back`, `/spawn`, `/warp`
-- **Level 2** (Operators): Most utility commands (`/heal`, `/fly`, `/give`, etc.)
-- **Level 3** (Admins): Moderation commands (`/kick`, `/ban`)
+- **Level 2** (Operators): Most utility commands (`/heal`, `/fly`, etc.)
 - **Level 4** (Server Owners): All permissions automatically granted
 
 ## Data Storage

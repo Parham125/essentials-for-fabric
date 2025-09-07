@@ -20,15 +20,11 @@ public class EssentialsForFabric implements ModInitializer {
             SpeedCommand.register(dispatcher);
             GamemodeCommands.register(dispatcher);
             TeleportCommands.register(dispatcher);
-            GiveCommand.register(dispatcher, registryAccess);
             RepairCommand.register(dispatcher);
-            TimeCommand.register(dispatcher);
-            WeatherCommand.register(dispatcher);
             SpawnCommand.register(dispatcher);
             HomeCommands.register(dispatcher);
             BackCommand.register(dispatcher);
             WarpCommands.register(dispatcher);
-            KickBanCommands.register(dispatcher);
         });
 
         ServerLifecycleEvents.SERVER_STARTED.register(server -> {

@@ -1,5 +1,16 @@
 # Changelog
 
+## Version 0.1.2-beta - Command Cleanup
+
+### Changes
+- Removed `/give` command - use vanilla `/give` command instead
+- Removed `/time` command - use vanilla `/time` command instead  
+- Removed `/weather` command - use vanilla `/weather` command instead
+- Removed `/kick` and `/ban` commands - use vanilla `/kick` and `/ban` commands instead
+- Updated documentation to reflect removed commands
+- Cleaned up modrinth.md formatting and removed promotional content
+- Removed releases directory from repository
+
 ## Version 0.1.1-beta - Configuration Update
 
 ### Changes

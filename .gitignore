@@ -58,7 +58,3 @@ logs/
 *.class
 *.jar
 !gradle/wrapper/*.jar
-
-# Include releases directory with built jars
-!releases/
-!releases/*.jar
