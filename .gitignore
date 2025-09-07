@@ -2,6 +2,8 @@
 .gradle/
 build/
 gradle-app.setting
+gradle-8.5/
+gradle-8.5-bin.zip
 !gradle-wrapper.jar
 !gradle-wrapper.properties
 !gradle/wrapper/gradle-wrapper.jar

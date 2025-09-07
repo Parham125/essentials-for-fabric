@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.1.1-beta - Configuration Update
+
+### Changes
+- Updated mod logo to use custom Essentials for Fabric icon
+- Updated GitHub repository links to https://github.com/Parham125/essentials-for-fabric
+- Added GitHub issues URL for bug reporting
+
 ## Version 0.1.0-beta - Initial Beta Release
 
 ### Features Added

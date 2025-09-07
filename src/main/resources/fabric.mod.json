@@ -8,8 +8,9 @@
 		"EssentialsForFabric"
 	],
 	"contact": {
-		"homepage": "https://github.com/essentialsforfabric/essentials-for-fabric",
-		"sources": "https://github.com/essentialsforfabric/essentials-for-fabric"
+		"homepage": "https://github.com/Parham125/essentials-for-fabric",
+		"sources": "https://github.com/Parham125/essentials-for-fabric",
+		"issues": "https://github.com/Parham125/essentials-for-fabric/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/essentials-for-fabric/icon.png",
