@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "essentials-for-fabric",
+	"version": "${version}",
+	"name": "Essentials for Fabric",
+	"description": "A comprehensive server management mod providing essential commands like heal, fly, home, warp, and more - the Fabric equivalent of EssentialsX",
+	"authors": [
+		"EssentialsForFabric"
+	],
+	"contact": {
+		"homepage": "https://github.com/essentialsforfabric/essentials-for-fabric",
+		"sources": "https://github.com/essentialsforfabric/essentials-for-fabric"
+	},
+	"license": "MIT",
+	"icon": "assets/essentials-for-fabric/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.essentialsforfabric.EssentialsForFabric"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"minecraft": ">=1.20.1 <=1.21.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

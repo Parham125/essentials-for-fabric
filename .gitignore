@@ -1,0 +1,62 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fabric/Minecraft Development
+run/
+remappedSrc/
+.fabric/
+
+# Logs
+logs/
+*.log
+
+# Java heap dumps
+*.hprof
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE-generated files
+*.swp
+*.swo
+
+# Java
+*.class
+*.jar
+!gradle/wrapper/*.jar
+
+# Include releases directory with built jars
+!releases/
+!releases/*.jar
